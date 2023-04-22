@@ -98,3 +98,35 @@ h2 {
 
   position: absolute;
 }
+
+/* why join us section */
+
+#gym-ethos {
+    height: 750px;
+}
+
+section h1 {
+    font-family: Play, Anuphan, sans-serif;
+    font-size: 275%;
+    color: #342017;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+    line-height: 75px;
+}
+
+#left-side {
+padding-top: 80px;
+width: 45%;
+float: left;
+background-color: blue;
+margin-left: 30px;
+}
+
+#right-side {
+padding-top: 80px;
+width: 45%;
+float: right;
+background-color: green;
+margin-right: 30px;
+}
