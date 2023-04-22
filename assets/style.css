@@ -14,7 +14,8 @@ body {
 
 /* headings and logo */
 
-h1 {
+h1,
+h2 {
   font-family: Play, Anuphan, sans-serif;
   color: #342017;
   text-transform: uppercase;
@@ -53,5 +54,47 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px double #342017
+  border-bottom: 1px double #342017;
+}
+
+/* homepage image */
+
+#logo-text,
+#logo-text,
+h2 {
+  color: #91bbce;
+}
+
+#main-outer {
+  height: 750px;
+  width: 100%;
+  overflow: hidden;
+}
+
+#main-image {
+  height: 750px;
+  width: 100%;
+  background: url("../assets/images/main-image.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#logo-text {
+  font-size: 150%;
+  font-family: Play, Anuphan, sans-serif;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-align: center;
+  border-radius: 25px;
+
+  width: 380px;
+  height: 150px;
+
+  background-color: rgba(241, 109, 107, 0.7);
+
+  top: 150px;
+  right: 100px;
+
+  position: absolute;
 }
