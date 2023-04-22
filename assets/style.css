@@ -62,17 +62,17 @@ h2 {
 #logo-text,
 #logo-text,
 h2 {
-  color: #91bbce;
+  color: #342017;
 }
 
 #main-outer {
-  height: 750px;
+  height: 600px;
   width: 100%;
   overflow: hidden;
 }
 
 #main-image {
-  height: 750px;
+  height: 600px;
   width: 100%;
   background: url("../assets/images/main-image.webp");
   background-repeat: no-repeat;
@@ -102,31 +102,48 @@ h2 {
 /* why join us section */
 
 #gym-ethos {
-    height: 750px;
+  height: 600px;
 }
 
-section h1 {
-    font-family: Play, Anuphan, sans-serif;
-    font-size: 275%;
+#welcome {
     color: #342017;
-    text-transform: uppercase;
-    letter-spacing: 5px;
     text-align: center;
-    line-height: 75px;
+    margin-top: 30px;
+    font-size: 275%;
 }
 
 #left-side {
-padding-top: 80px;
-width: 45%;
-float: left;
-background-color: blue;
-margin-left: 30px;
+    padding-top: 30px;
+    width: 25%;
+    float: left;
+    padding-left: 0px;
+    margin-left: 0%;
 }
 
-#right-side {
-padding-top: 80px;
-width: 45%;
-float: right;
-background-color: green;
-margin-right: 30px;
+#right-side{
+    padding-top: 30px;
+    width: 25%;
+    float: right;
+}
+
+hr {
+    border-top: 1px solid #342017;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-side-heading {
+    width: 80%;
+    margin-left: 25px;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 30px;
+}
+
+.right-side-heading {
+    width: 80%;
+    margin-right: 25px;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
 }
