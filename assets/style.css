@@ -9,5 +9,19 @@
 body {
     font-family: Play, Anuphan, sans-serif;
     font-weight: 400;
-    background-color: #1f95cc;
+    background-color: #91bbce;
+}
+
+/* headings and logo */
+
+h1 {
+    font-family: Play, Anuphan, sans-serif;
+    color: #342017;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#logo {
+    float: left;
+    font-size: 275%;
 }
