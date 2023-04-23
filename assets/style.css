@@ -116,14 +116,14 @@ h2 {
     padding-top: 30px;
     width: 25%;
     float: left;
-    padding-left: 0px;
-    margin-left: 0%;
+    margin-left: -1%;
 }
 
 #right-side{
     padding-top: 30px;
     width: 25%;
     float: right;
+    margin-right: -1%;
 }
 
 hr {
@@ -134,10 +134,11 @@ hr {
 
 .left-side-heading {
     width: 80%;
-    margin-left: 25px;
+    margin-left: 60px;
     line-height: 20px;
     clear: both;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .right-side-heading {
@@ -146,4 +147,50 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    text-align: center;
+}
+
+/* membership options */
+
+#membership {
+    color: #342017;
+    text-align: center;
+    font-size: 275%; 
+    margin-top: 30px;
+}
+
+hr {
+    border-top: 1px solid #342017;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.left-membership {
+    width: 80%;
+    margin-left: 60px;
+    line-height: 35px;
+    clear: both;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.right-membership {
+    width: 80%;
+    margin-right: 25px;
+    line-height: 35px;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#left-side div {
+    border: 5px solid #342017;
+    border-radius: 20px;
+    position: relative;
+}
+
+#right-side div {
+    border: 5px solid #342017;
+    border-radius: 20px;
+    position: relative;
 }
