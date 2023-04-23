@@ -1,15 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Anuphan&family=Play&display=swap");
 
 * {
-  margin: 0;
-  padding: 0;
-  border: none;
-}
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
 
 body {
   font-family: Play, Anuphan, sans-serif;
   font-weight: 400;
   background-color: #91bbce;
+  width: 100%;
+  height: 100%;
 }
 
 /* headings and logo */
@@ -78,6 +80,8 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  background-image: fixed;
+  margin-right: 0%;
 }
 
 #logo-text {
