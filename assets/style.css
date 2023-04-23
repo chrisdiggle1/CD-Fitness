@@ -172,6 +172,9 @@ hr {
     clear: both;
     margin-bottom: 30px;
     text-align: center;
+    border: 5px solid;
+    border-radius: 20px;
+    color: #342017;
 }
 
 .right-membership {
@@ -181,16 +184,35 @@ hr {
     clear: both;
     margin-bottom: 50px;
     text-align: center;
+    border: 5px solid;
+    border-radius: 20px;
+    color: #342017;
 }
 
-#left-side div {
-    border: 5px solid #342017;
-    border-radius: 20px;
-    position: relative;
+/* footer */
+
+footer {
+
+    height: 20%;
 }
 
-#right-side div {
-    border: 5px solid #342017;
-    border-radius: 20px;
-    position: relative;
+footer > p {
+    text-align: center;
+    font-size: 175%;
+    color: #342017;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 175%;
+    margin: 0%;
+    padding: 1%;
+    color: #342017;
 }
