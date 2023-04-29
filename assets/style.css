@@ -91,15 +91,11 @@ h2 {
   text-transform: uppercase;
   text-align: center;
   border-radius: 25px;
-
   width: 380px;
   height: 150px;
-
   background-color: rgba(241, 109, 107, 0.7);
-
   top: 150px;
   right: 100px;
-
   position: absolute;
 }
 
@@ -170,7 +166,6 @@ hr {
 .left-membership {
     width: 80%;
     margin-left: 35px;
-    line-height: 20px;
     clear: both;
     margin-bottom: 30px;
     text-align: center;
@@ -183,7 +178,6 @@ hr {
 .right-membership {
     width: 80%;
     margin-right: 25px;
-    line-height: 20px;
     clear: both;
     margin-bottom: 30px;
     text-align: center;
@@ -221,6 +215,8 @@ footer > p {
     color: #342017;
 }
 
+/* amenities */
+
 #photos {
     clear: both;
     line-height: 0;
@@ -231,3 +227,31 @@ footer > p {
 #photos > img {
     width: 100%;
 }
+
+/*Ammenities page */
+
+#amenities-title {
+    color: #342017;
+    text-align: center;
+    font-size: 275%; 
+    padding-top: 2px
+}
+
+#amenities-list{
+    margin-bottom: 30px;
+    padding-top: 1%;
+}
+
+#amenities-list > ul {
+    list-style-position: inside;
+    text-align: center;
+    color: #342017;
+    border: 5px solid;
+    border-radius: 25px;
+    line-height: 30px; 
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
