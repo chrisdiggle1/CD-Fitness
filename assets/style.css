@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Anuphan&family=Play&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
-  }
+  margin: 0;
+  padding: 0;
+  border: none;
+}
 
 body {
   font-family: Play, Anuphan, sans-serif;
@@ -76,7 +76,7 @@ h2 {
 #main-image {
   height: 600px;
   width: 100%;
-  background: url("../assets/images/main-image.webp");
+  background: url("../assets/images/home-main-image.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -106,152 +106,137 @@ h2 {
 }
 
 #welcome {
-    color: #342017;
-    text-align: center;
-    margin-top: 30px;
-    font-size: 275%;
+  color: #342017;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 275%;
 }
 
-#left-side {
-    padding-top: 30px;
-    width: 25%;
-    float: left;
+#why-join-us {
+  clear: both;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-#right-side{
-    padding-top: 30px;
-    width: 24%;
-    float: right;
+#why-join-us div {
+  margin: 10px;
+  width: 300px;
+  padding: 20px 0;
+  text-align: center;
+  line-height: 30px;
 }
 
 hr {
-    border-top: 1px solid #342017;
-    width: 100%;
-    margin: 5px 0;
-}
-
-.left-side-heading {
-    width: 80%;
-    margin-left: 35px;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 30px;
-    text-align: center;
-}
-
-.right-side-heading {
-    width: 80%;
-    margin-right: 25px;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 30px;
-    text-align: center;
+  border-top: 1px solid #342017;
+  width: 100%;
+  margin: 5px 0;
 }
 
 /* membership options */
 
 #membership {
-    color: #342017;
-    text-align: center;
-    font-size: 275%; 
-    margin-top: 30px;
+  color: #342017;
+  text-align: center;
+  font-size: 275%;
+  margin-top: 30px;
 }
 
 hr {
-    border-top: 1px solid #342017;
-    width: 100%;
-    margin: 5px 0;
+  border-top: 1px solid #342017;
+  width: 100%;
+  margin: 5px 0;
 }
 
-.left-membership {
-    width: 80%;
-    margin-left: 35px;
-    clear: both;
-    margin-bottom: 30px;
-    text-align: center;
-    border: 5px solid;
-    border-radius: 20px;
-    color: #342017;
-    line-height: 30px;
+#membership-ops {
+  clear: both;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-.right-membership {
-    width: 80%;
-    margin-right: 25px;
-    clear: both;
-    margin-bottom: 30px;
-    text-align: center;
-    border: 5px solid;
-    border-radius: 20px;
-    color: #342017;
-    line-height: 30px;
+#membership-ops div {
+  margin: 10px;
+  width: 300px;
+  height: 125px;
+  padding: 20px 0;
+  text-align: center;
+  border: 5px solid #342017;
+  border-radius: 20px;
+  line-height: 30px;
 }
+
+#membership-ops h3 {
+  color: #342017;
+}
+
+/* Class Times Section */
 
 /* footer */
 
 footer {
-
-    height: 20%;
+  height: 20%;
 }
 
 footer > p {
-    text-align: center;
-    font-size: 175%;
-    color: #342017;
+  text-align: center;
+  font-size: 175%;
+  color: #342017;
 }
 
 .socials {
-    text-align: center;
+  text-align: center;
 }
 
 .socials > li {
-    display: inline;
+  display: inline;
 }
 
 .socials i {
-    font-size: 175%;
-    margin: 0%;
-    padding: 1%;
-    color: #342017;
+  font-size: 175%;
+  margin: 0%;
+  padding: 1%;
+  color: #342017;
 }
 
 /* amenities */
 
 #photos {
-    clear: both;
-    line-height: 0;
-    column-count: 3;
-    column-gap: 0;
+  clear: both;
+  line-height: 0;
+  column-count: 3;
+  column-gap: 0;
 }
 
 #photos > img {
-    width: 100%;
+  width: 100%;
 }
 
 /*Ammenities page */
 
 #amenities-title {
-    color: #342017;
-    text-align: center;
-    font-size: 275%; 
-    padding-top: 2px
+  color: #342017;
+  text-align: center;
+  font-size: 275%;
+  padding-top: 2px;
 }
 
-#amenities-list{
-    margin-bottom: 30px;
-    padding-top: 1%;
+#amenities-list {
+  margin-bottom: 30px;
+  padding-top: 1%;
 }
 
 #amenities-list > ul {
-    list-style-position: inside;
-    text-align: center;
-    color: #342017;
-    border: 5px solid;
-    border-radius: 25px;
-    line-height: 30px; 
-    margin-left: 30%;
-    margin-right: 30%;
-    padding-top: 1%;
-    padding-bottom: 1%;
+  list-style-position: inside;
+  text-align: center;
+  color: #342017;
+  border: 5px solid;
+  border-radius: 25px;
+  line-height: 30px;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 1%;
+  padding-bottom: 1%;
 }
-
