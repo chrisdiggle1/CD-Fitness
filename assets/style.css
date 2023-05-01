@@ -267,11 +267,12 @@ footer > p {
 
 #group-classes div {
   margin: 10px;
-  width: 260px;
-  height: 460px;
+  width: 280px;
+  height: 350px;
   padding: 20px 20px;
   text-align: center;
-  border: 5px solid #342017;
-  border-radius: 20px;
   position: relative;
+  border: 5px solid;
+  border-radius: 25px;
+  line-height: 30px;
 }
