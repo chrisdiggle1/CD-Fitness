@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="fitness center for everyone in Baildon, England"
+    />
+    <meta
+      name="keywords"
+      content="fitness  center, fitness, exercise, baildon, england"
+    />
+
+    <link rel="stylesheet" href="assets/style.css" />
+    <title>CD-Fitness</title>
+  </head>
+
+  <body>
+    <!-- header -->
+    <!--layout of the header was influenced by the love running project with the code changed-->
+
+    <header>
+      <a href="index.html">
+        <h1 id="logo">CD-Fitness</h1>
+      </a>
+      <nav>
+        <ul id="main-menu">
+          <li>
+            <a href="signup.html" class="active">Join Us</a>
+          </li>
+          <li>
+            <a href="classes.html">Classes</a>
+          </li>
+          <li>
+            <a href="amenities.html">Amenities</a>
+          </li>
+          <li>
+            <a href="index.html">Home</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <!--sign up form-->
+    <!--The structure for the signup was taken from the love running project. The code was used and changed for my signup page-->
+
+    <section>
+      <form
+        class="signup-form"
+        action="https://formdump.codeinstitute.net/"
+        method="POST"
+      >
+        <h2>Join the family</h2>
+        <label for="fname">First Name</label>
+        <input
+          type="text"
+          id="fname"
+          name="first_name"
+          class="text-input"
+          required
+        />
+        <br />
+        <label for="lname">Last Name</label>
+        <input
+          type="text"
+          id="lname"
+          name="last_name"
+          class="text-input"
+          required
+        />
+        <br />
+        <label for="email">Email Address</label>
+        <input
+          type="email"
+          id="email"
+          name="email_address"
+          class="text-input"
+          required
+        />
+        <br />
+
+        <h3>Which membership would you like?</h3>
+        <br />
+        <label for="1month">1 Month</label>
+        <input type="radio" id="1month" name="1_month" value="1month" />
+
+        <label for="3months">3 Months</label>
+        <input type="radio" id="3months" name="3_months" value="3months" />
+
+        <label for="6months">6 Months</label>
+        <input type="radio" id="6months" name="6_months" value="6months" />
+
+        <label for="12months">12 Months</label>
+        <input type="radio" id="12months" name="12_months" value="12months" />
+
+        <input type="submit" class="join-button" value="Lets Go!">
+      </form>
+    </section>
+
+    <!--footer-->
+
+    <footer>
+      <p>Follow us on our socials</p>
+      <ul class="socials">
+        <li>
+          <a
+            href="https://facebook.com"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Facebook page (opens in a new tab)"
+            ><i class="fa-brands fa-square-facebook"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://instagram.com"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Instagram page (opens in a new tab)"
+            ><i class="fa-brands fa-square-instagram"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://twitter.com"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Twitter page (opens in a new tab)"
+            ><i class="fa-brands fa-square-twitter"></i
+          ></a>
+        </li>
+        <li>
+          <a
+            href="https://youtube.com"
+            target="_blank"
+            rel="noopener"
+            aria-label="Visit our Twitter page (opens in a new tab)"
+            ><i class="fa-brands fa-square-youtube"></i
+          ></a>
+        </li>
+      </ul>
+    </footer>
+
+    <!-- font awesome script -->
+
+    <script
+      src="https://kit.fontawesome.com/39b2c812fe.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
