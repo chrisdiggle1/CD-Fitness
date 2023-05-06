@@ -277,3 +277,53 @@ footer > p {
   line-height: 30px;
 }
 
+/* form section */
+
+.form-section {
+    background: url(../assets/images/signup.webp);
+    background-size: cover;
+    background-position: center;
+    clear: both;
+    height: 800px;
+}
+
+.signup-form {
+    margin: 150px 10% 0 0;
+    color: #342017;
+    background-color: rgba(241, 109, 107, 0.7);
+    max-width: 400px;
+    position: absolute;
+    left: 5%;
+    padding: 30px;
+    border-radius: 25px;
+    border: 2px solid;
+}
+
+.signup-form h2 {
+    color: #342017;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #342017;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #342017;
+}
+
+.join-button{
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #342017;
+    color: #fafafa;
+    display: block;
+    border-radius: 25px;
+    border: 2px solid #342017;
+}
+
+
