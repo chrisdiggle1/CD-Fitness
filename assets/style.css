@@ -176,6 +176,7 @@ hr {
 
 footer {
   height: 20%;
+  margin: 2%;
 }
 
 footer > p {
@@ -285,6 +286,7 @@ footer > p {
     background-position: center;
     clear: both;
     height: 800px;
+    margin: 5px 0;
 }
 
 .signup-form {
