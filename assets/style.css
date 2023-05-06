@@ -246,7 +246,8 @@ footer > p {
   color: #342017;
   text-align: center;
   font-size: 275%;
-  padding-top: 100px;
+  padding-top: 150px;
+  
 }
 
 #classes-text {
@@ -273,7 +274,7 @@ footer > p {
   padding: 20px 20px;
   text-align: center;
   position: relative;
-  border: 5px solid;
+  border: 5px solid #342017;
   border-radius: 25px;
   line-height: 30px;
 }
@@ -326,6 +327,86 @@ footer > p {
     display: block;
     border-radius: 25px;
     border: 2px solid #342017;
+}
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+
+@media screen and (max-width: 1200px){
+    #main-menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+    #classes-title {
+        text-align: center;
+        font-size: 35px;
+    }
+    
+}
+
+/* For medium screens sizes from 850px wide and down */
+
+@media screen and (max-width: 850px) {
+    #logo {
+        float: left;
+        font-size: 250%;
+        font-weight: 500;
+        margin-left: 20px
+    }
+
+    #main-menu {
+        clear: left;
+        float: left;
+        margin-left: 10px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+
+
+    #classes-title {
+        text-align: center;
+        font-size: 35px;
+    }
+
+    #photos {
+        column-count: 2;
+    }
+
+
+}
+
+/* Responsiveness for small screen sizes from 450px wide and down */
+
+@media screen and (max-width: 450px) {
+    #logo {
+        margin-left: 10px;
+        font-size: 200%;
+    }
+
+    #main-menu {
+        margin-left: 0;
+        font-size: 90%;
+        letter-spacing: 1px;
+    }
+    
+    #main-menu li {
+        text-align: center;
+    }
+
+    #photos {
+        column-count: 1;
+    }
+
+    #logo-text {
+        left: 0;
+        text-align: center;
+    }
+
 }
 
 
