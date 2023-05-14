@@ -16,7 +16,8 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
 
 ##### Balsamiq Wireframes
 
-The website has 4 pages and was designed using Balsamiq Wireframes.
+The website has 6 pages. 4 pages are accessible with links in the header,
+and there is also a thank you page you are dirceted to when you fill in the form and hit the 'lets go' button, and a 404 error page if the URL is incorrectly input. 
 
 1. **Home Page** 
 
@@ -73,6 +74,31 @@ classes page to clearly state what classes we currently run.
 
 ## Page Features
 
+**Header**
+
+* The header is featured on all pages on the webiste.
+
+* The header contains the brand name and logo and links to the Home page, Amenities page, classes page and sign up page. 
+
+* Each link in the header is underlined when the user hovers over it. 
+
+**Footer**
+
+* The footer is featured on all pages on the website with the exception of the 404 page.
+
+* The footer has links to the most commonly used social media sites which CD-Fitness members use.
+
+* Each link opens the page in a new tab when selected.
+
+**Home Page**
+
+* Contains an image of a male and female working out in the gym. this is to grab the users attention when the page first laods.
+
+* The image also has some text overlay with an opaque background to stand out on the page.
+
+* Cantains four reasons why the user should join us, with a decription of each of the benefits. 
+
+* Displays the meberships and costs that are on offer.
 
 ## Technologies Used
 
