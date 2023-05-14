@@ -12,13 +12,27 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
 
 ## User Experience (UX)
 
-## Website Structure
+### Website Structure
 
-# Balsamiq Wireframes
+##### Balsamiq Wireframes
 
 The website has 4 pages and was designed using Balsamiq Wireframes.
 
 1. **Home Page** 
+
+![alt wireframe design of homepage](documentation/homepage.PNG)
+
+2. **Amenities**
+
+![alt wireframe design of amenities](documentation/amenities.PNG)
+
+3. **Classes**
+
+![alt wireframe design of classes](documentation/classes.PNG)
+
+4. **Join Us**
+
+![alt wireframe design of classes](documentation/joinus.PNG)
 
 **First-time User**
 
