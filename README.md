@@ -1,4 +1,4 @@
-## CD-FITNESS
+# **CD-FITNESS**
 
 This website has been built for my first portfolio project. The website is a static website using HTML and CSS. 
 
@@ -6,13 +6,13 @@ For this project I have decided to build a website based on a ficticious gym as 
 
 The site is aimed to attract customers, with a nice easy to read layout, complimenting colour scheme, and providing all the information a potential new customer would need to make the decision to sign up.
 
-## Live Site
+## **Live Site**
 
 
 
-## User Experience (UX)
+## **User Experience (UX)**
 
-### Website Structure
+### **Website Structure**
 
 ##### Balsamiq Wireframes
 
@@ -64,7 +64,7 @@ As the site owner, I want the users to ...
 3. Feel comforatable reaching out to the gym for further information or to report any issues.
 
 
-## Target Audience 
+## **Target Audience** 
 
 I have designed this website with the intention to target everyone, from all walks of life. I 
 want to attract newcomers who have never been to a gym before, aswell as regulars to a gym who
@@ -72,9 +72,9 @@ would like to try out a new gymm. I want the website to be specific in what amen
 we have on offer. The amenities page has a clear visualisation of what we have in the gym and the 
 classes page to clearly state what classes we currently run.  
 
-## Page Features
+## **Page Features**
 
-**Header**
+### **Header**
 
 * The header is featured on all pages on the webiste.
 
@@ -82,7 +82,7 @@ classes page to clearly state what classes we currently run.
 
 * Each link in the header is underlined when the user hovers over it. 
 
-**Footer**
+### **Footer**
 
 * The footer is featured on all pages on the website with the exception of the 404 page.
 
@@ -90,7 +90,7 @@ classes page to clearly state what classes we currently run.
 
 * Each link opens the page in a new tab when selected.
 
-**Home Page**
+### **Home Page**
 
 * Contains an image of a male and female working out in the gym. this is to grab the users attention when the page first laods.
 
@@ -99,6 +99,12 @@ classes page to clearly state what classes we currently run.
 * Cantains four reasons why the user should join us, with a decription of each of the benefits. 
 
 * Displays the meberships and costs that are on offer.
+
+### **Amenities Page**
+
+* Displays 15 images of the amenities the gym has to offer customers. this is  to provide a pleasant visual to users looking at joining.
+
+* Displays a list of bullet points of the amenities at the gym under the images, this is to state exactly what we have inside.
 
 ## Technologies Used
 
