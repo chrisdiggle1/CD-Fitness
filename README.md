@@ -12,6 +12,14 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
 
 ## User Experience (UX)
 
+## Website Structure
+
+# Balsamiq Wireframes
+
+The website has 4 pages and was designed using Balsamiq Wireframes.
+
+1. **Home Page** 
+
 **First-time User**
 
 As a first time user, I want to ...
@@ -43,6 +51,11 @@ As the site owner, I want the users to ...
 
 ## Target Audience 
 
+I have designed this website with the intention to target everyone, from all walks of life. I 
+want to attract newcomers who have never been to a gym before, aswell as regulars to a gym who
+would like to try out a new gymm. I want the website to be specific in what amenities and classes
+we have on offer. The amenities page has a clear visualisation of what we have in the gym and the 
+classes page to clearly state what classes we currently run.  
 
 ## Page Features
 
