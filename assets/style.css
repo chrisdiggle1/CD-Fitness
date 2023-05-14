@@ -449,6 +449,11 @@ footer > p {
         text-align: center;
     }
 
+    #thanks-text {
+        left: 0;
+        text-align: center;
+    }
+
 }
 
 
