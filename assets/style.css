@@ -379,12 +379,13 @@ footer > p {
     text-align: center;
     border-radius: 25px;
     width: 380px;
-    height: 300px;
+    height: 280px;
     color: #342017;
     background-color: rgba(241, 109, 107, 0.9);
     top: 150px;
     right: 100px;
     position: absolute;
+    padding: 10px;
   }
 
 /* Media queries */
@@ -447,7 +448,7 @@ footer > p {
     }
 
     #main-menu {
-        margin-left: 0;
+        margin-left: 5px;
         font-size: 90%;
         letter-spacing: 1px;
     }
