@@ -97,7 +97,6 @@ h2 {
   top: 150px;
   right: 100px;
   position: absolute;
-  padding: 1px;
 }
 
 /* why join us section */
@@ -453,6 +452,10 @@ footer > p {
         font-size: 90%;
         letter-spacing: 1px;
     }
+
+    #main-image {
+        width: 100%;
+    }
     
     #main-menu li {
         text-align: center;
@@ -465,7 +468,6 @@ footer > p {
     #logo-text {
         left: 0;
         text-align: center;
-        padding: 1px;
     }
 
     #thanks-text {
@@ -474,5 +476,4 @@ footer > p {
     }
 
 }
-
 
