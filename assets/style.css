@@ -436,6 +436,10 @@ footer > p {
         column-count: 2;
     }
 
+    #logo-text {
+        left: 0;
+        text-align: center;
+    }
 
 }
 
@@ -477,3 +481,25 @@ footer > p {
 
 }
 
+/* Responsiveness for smaller screen sizes from 380px wide and down */
+
+@media screen and (max-width: 380px) {
+
+    #logo-text {
+        left: 0;
+        text-align: center;
+        padding-bottom: 3px;
+        width: inherit;
+    }
+
+    #main-menu {
+        margin-left: 5px;
+        font-size: 70%;
+        letter-spacing: 1px;
+    }
+
+    #main-menu li {
+        text-align: center;
+    }
+
+}
