@@ -97,6 +97,7 @@ h2 {
   top: 150px;
   right: 100px;
   position: absolute;
+  padding: 5px;
 }
 
 /* why join us section */
@@ -464,6 +465,7 @@ footer > p {
     #logo-text {
         left: 0;
         text-align: center;
+        padding: 5px;
     }
 
     #thanks-text {
