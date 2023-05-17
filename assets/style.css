@@ -389,6 +389,28 @@ footer > p {
     height: fit-content;
   }
 
+  /* 404 error page */
+
+  #error {
+  line-height: 30px;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 30px;
+  }
+
+  #error h2 {
+    color: #342017;
+    font-size: 300px;
+    text-align: center;
+  }
+
+  error h3 {
+    color: #342017;
+    font-size: 300px;
+    text-align: center;
+  }
+
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
