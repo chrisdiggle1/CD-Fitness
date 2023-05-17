@@ -19,21 +19,32 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
 The website has 6 pages. 4 pages are accessible with links in the header,
 and there is also a thank you page you are dirceted to when you fill in the form and hit the 'lets go' button, and a 404 error page if the URL is incorrectly input. 
 
-1. **Home Page** 
 
-![alt wireframe design of homepage](documentation/homepage.PNG)
+<details>
+<summary>Homepage Wireframe</summary>
+<img src="documentation">
+</details>
 
-2. **Amenities**
+<br>
 
-![alt wireframe design of amenities](documentation/amenities.PNG)
+<details>
+<summary>Amenities Page Wireframe</summary>
+<img src="documentation">
+</details>
 
-3. **Classes**
+<br>
 
-![alt wireframe design of classes](documentation/classes.PNG)
+<details>
+<summary>Classes Page Wireframe</summary>
+<img src="documentation">
+</details>
 
-4. **Join Us**
+<br>
 
-![alt wireframe design of classes](documentation/joinus.PNG)
+<details>
+<summary>Join Us Page Wireframe</summary>
+<img src="documentation">
+</details>
 
 **First-time User**
 
