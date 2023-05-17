@@ -80,7 +80,6 @@ h2 {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  /* background-image: fixed; */
   margin-right: 0%;
 }
 
@@ -292,7 +291,6 @@ footer > p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: fixed;
 }
 
 /* form section */
@@ -367,7 +365,6 @@ footer > p {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    background-image: fixed;
     margin-right: 0%;
   }
   
