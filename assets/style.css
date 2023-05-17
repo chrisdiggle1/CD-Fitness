@@ -452,7 +452,7 @@ footer > p {
     }
 
     #main-menu {
-        margin-left: 5px;
+        margin-left: 10px;
         font-size: 90%;
         letter-spacing: 1px;
     }
@@ -472,11 +472,14 @@ footer > p {
     #logo-text {
         left: 0;
         text-align: center;
+        padding-bottom: 10px;
     }
 
     #thanks-text {
         left: 0;
         text-align: center;
+        width: auto;
+        height: auto;
     }
 
 }
@@ -488,18 +491,27 @@ footer > p {
     #logo-text {
         left: 0;
         text-align: center;
-        padding-bottom: 3px;
+        padding-bottom: 10px;
         width: inherit;
     }
 
     #main-menu {
-        margin-left: 5px;
+        margin-left: 10px;
         font-size: 70%;
         letter-spacing: 1px;
     }
 
     #main-menu li {
         text-align: center;
+    }
+
+    #thanks-text {
+            left: 0;
+            text-align: center;
+            padding-bottom: 3px;
+            width: auto;
+            height: auto;
+            margin-left: 10px;
     }
 
 }
