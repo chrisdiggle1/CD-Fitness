@@ -386,6 +386,7 @@ footer > p {
     right: 100px;
     position: absolute;
     padding: 10px;
+    height: fit-content;
   }
 
 /* Media queries */
@@ -405,6 +406,8 @@ footer > p {
         text-align: center;
         font-size: 35px;
     }
+
+
     
 }
 
