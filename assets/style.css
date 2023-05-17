@@ -394,21 +394,20 @@ footer > p {
   #error {
   line-height: 30px;
   text-align: center;
-  margin-left: 30%;
-  margin-right: 30%;
-  padding-top: 30px;
+  margin-left: 10%;
+  margin-right: 100%;
+  padding-top: 100px;
   clear: both;
+  color: #342017;
   }
 
   #error h2 {
     color: #342017;
-    font-size: 300px;
     text-align: center;
   }
 
   error h3 {
     color: #342017;
-    font-size: 300px;
     text-align: center;
   }
 
