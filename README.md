@@ -1,14 +1,16 @@
 # **CD-FITNESS**
 
-This website has been built for my first portfolio project. The website is a static website using HTML and CSS. 
+This website has been built for my first portfolio project and is for educational purposes only. The website is a static website using HTML and CSS. 
 
-For this project I have decided to build a website based on a ficticious gym as fitness is somthing I value.
+For this project I have decided to build a website based on a ficticious gym as fitness is somthing I value. The name CD - Fitness has been used simply from using my own initials.
 
 The site is aimed to attract customers, with a nice easy to read layout, complimenting colour scheme, and providing all the information a potential new customer would need to make the decision to sign up.
 
 ## **Live Site**
 
+![alt view of site displayed on different screen sizes](/documentation/responsive.PNG)
 
+**[Live Website](https://chrisdiggle1.github.io/CD-Fitness/)**
 
 ## **User Experience (UX)**
 
@@ -22,31 +24,31 @@ and there is also a thank you page you are dirceted to when you fill in the form
 
 <details>
 <summary>Homepage Wireframe</summary>
-<img src="documentation">
+<img src="documentation/homepage.PNG">
 </details>
 
 <br>
 
 <details>
 <summary>Amenities Page Wireframe</summary>
-<img src="documentation">
+<img src="documentation/amenities.PNG">
 </details>
 
 <br>
 
 <details>
 <summary>Classes Page Wireframe</summary>
-<img src="documentation">
+<img src="documentation/classes.PNG">
 </details>
 
 <br>
 
 <details>
 <summary>Join Us Page Wireframe</summary>
-<img src="documentation">
+<img src="documentation/join.PNG">
 </details>
 
-**First-time User**
+### **First-time User**
 
 As a first time user, I want to ...
 
@@ -56,7 +58,7 @@ As a first time user, I want to ...
 4. See what classes are on and what times.
 5. Locate socail media links to see followings and cooments/reviews.
 
-**Returning User**
+### **Returning User**
 
 As a returning user, I want to...
 
@@ -66,7 +68,7 @@ As a returning user, I want to...
 4. Find directions to the gym.
 5. View updates to any of the amenities.
 
-**Site Owner**
+### **Site Owner**
 
 As the site owner, I want the users to ...
 
