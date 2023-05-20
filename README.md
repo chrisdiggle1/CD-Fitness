@@ -185,8 +185,17 @@ I used google fonts to import the fonts for this project.
 <details>
 <summary>Favicon</summary>
 <img src="documentation/favicon.PNG">
+</details>
 
 * All pages on the site have a Favicon. The Favicon contains the letters CDF and uses the colour theme from the main site, with a Sky Blue background and the letters in Bistre.
+
+### **Accessibility**
+
+I have tried to ensure the website is accessible friendly as possible. I have tried to achive this by:
+
+* Using Semantic HTML
+* Using descriptive alt attributes on images on the site.
+* Ensuring that there is a sufficient colour contrast throughout the site.
 
 ## Technologies Used
 
@@ -203,19 +212,133 @@ I used google fonts to import the fonts for this project.
 * CodeAnywhere - The cloud IDE used to write all my code.
 * Google Fonts - Used to import the fonts used on the site.
 * Font Awesome - The icons on the site are used from here.
-* W3Schools - Used to help when stuck with an issue
+* W3Schools - Used to help when stuck with an issue.
 * W3C validator - Used to check and validate html code.
 * Jigsaw validator - Used to check and validate css code
 * [Am I responsive](http://ami.responsivedesign.is/) - To show website image on different devices.
 * Favicon.io - Used to create the Favicon for the site.
 * Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+* [Convertio.co](https://convertio.co/) - Used to convert images to webp.
 
 
 ## Testing and Validation
 
+The [W3C](https://validator.w3.org/) Markup Validation Service was used to validate the HTML on all pages of the website. All pages passed with no errors or warnings.
 
-## Bugs & Fixes
+<details>
+<summary>Home Page</summary>
+<img src="documentation/w3index.PNG">
+</details>
 
+<br>
+
+<details>
+<summary>Amenities Page</summary>
+<img src="documentation/w3amenities.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Classes Page</summary>
+<img src="documentation/w3classes.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Signup Page</summary>
+<img src="documentation/w3signup.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Thank You Page</summary>
+<img src="documentation/w3thankyou.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>404 Error Page</summary>
+<img src="documentation/w3404.PNG">
+</details>
+
+<br>
+
+The [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) CSS Validation Service was used to validate the CSS code for the site. The code passed with no errors or warnings.
+
+<details>
+<summary>CSS Validation</summary>
+<img src="documentation/css-validation.PNG">
+</details>
+
+<br>
+
+### **Lighthouse Tests**
+
+The Lighthouse tool on Google DevTools was used to test the accessibility and performance of the 4 main pages of the site. The pages were tested for mobile and desktop and recieved high scores in all the required areas.
+
+### **Desktop**
+
+<details>
+<summary>Home Page</summary>
+<img src="documentation/desktop-home.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Amenities Page</summary>
+<img src="documentation/desktop-amenities.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Classes Page</summary>
+<img src="documentation/desktop-classes.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Signup Page</summary>
+<img src="documentation/desktop-signup.PNG">
+</details>
+
+<br>
+
+### **Mobile**
+
+<details>
+<summary>Home Page</summary>
+<img src="documentation/mobile-home.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Amenities Page</summary>
+<img src="documentation/mobile-amenities.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Classes Page</summary>
+<img src="documentation/mobile-classes.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Signup Page</summary>
+<img src="documentation/mobile-signup.PNG">
+</details>
+
+<br>
 
 ## Deployment
 
