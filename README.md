@@ -180,6 +180,14 @@ I used google fonts to import the fonts for this project.
 
 * The error states the page can't be found and instructs the user to click a link in the header to go back to the main site.
 
+### **Favicon**
+
+<details>
+<summary>Favicon</summary>
+<img src="documentation/favicon.PNG">
+
+* All pages on the site have a Favicon. The Favicon contains the letters CDF and uses the colour theme from the main site, with a Sky Blue background and the letters in Bistre.
+
 ## Technologies Used
 
 ### Languages
@@ -189,16 +197,18 @@ I used google fonts to import the fonts for this project.
 
 ### Frameworks and tools
 
-* Git
-* GitHub
-* Balsamiq Wireframe
-* CodeAnywhere
-* Google Fonts
-* Font Awesome
-* W3Schools
-* W3C validator
-* Jigsaw validator
-* [Am I responsive] (http://ami.responsivedesign.is/)
+* Git - Used for version control.
+* GitHub - Used to save and store the files for the site.
+* Balsamiq Wireframe - Used to design the layout of the site.
+* CodeAnywhere - The cloud IDE used to write all my code.
+* Google Fonts - Used to import the fonts used on the site.
+* Font Awesome - The icons on the site are used from here.
+* W3Schools - Used to help when stuck with an issue
+* W3C validator - Used to check and validate html code.
+* Jigsaw validator - Used to check and validate css code
+* [Am I responsive](http://ami.responsivedesign.is/) - To show website image on different devices.
+* Favicon.io - Used to create the Favicon for the site.
+* Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
 
 ## Testing and Validation
