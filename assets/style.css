@@ -316,6 +316,12 @@ footer > p {
     border: 2px solid;
 }
 
+.signup-form label {
+    align-items: center;
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+  
 .signup-form h2 {
     color: #342017;
     margin-bottom: 20px;
@@ -463,6 +469,12 @@ footer > p {
         text-align: center;
     }
 
+    .signup-form {
+        display: inline-flex;
+        flex-direction: column;
+        display: inline-block
+    }
+
 }
 
 /* Responsiveness for small screen sizes from 450px wide and down */
@@ -502,6 +514,12 @@ footer > p {
         text-align: center;
         width: auto;
         height: auto;
+    }
+
+    .signup-form {
+        display: inline-flex;
+        flex-direction: column;
+        display: inline-block
     }
 
 }
