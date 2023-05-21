@@ -340,6 +340,54 @@ The Lighthouse tool on Google DevTools was used to test the accessibility and pe
 
 <br>
 
+### **WAVE**
+
+Each page was run through the Web Accessibility Evalulation Tool (WAVE).
+
+The alerts on the pages are due to the text on the footer not being listed as a header and is a paragraph instead with bigger font-size. This was changed after coming up with a warning the first time I ran the page through the HTML validator.
+
+The alert on the thankyou page is because I have set the page to automatically re-direct the user back to the homepage after 10 seconds of displaying the page
+
+<details>
+<summary>Home Page</summary>
+<img src="documentation/wave-home.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Amenities Page</summary>
+<img src="documentation/wave-amenities.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Classes Page</summary>
+<img src="documentation/wave-classes.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Signup Page</summary>
+<img src="documentation/wave-signup.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>Thank You Page</summary>
+<img src="documentation/wave-thankyou.PNG">
+</details>
+
+<br>
+
+<details>
+<summary>404 Error Page</summary>
+<img src="documentation/wave-error.PNG">
+</details>
+
 ## Deployment
 
 
