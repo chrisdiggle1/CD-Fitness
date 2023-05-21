@@ -346,7 +346,7 @@ Each page was run through the Web Accessibility Evalulation Tool (WAVE).
 
 The alerts on the pages are due to the text on the footer not being listed as a header and is a paragraph instead with bigger font-size. This was changed after coming up with a warning the first time I ran the page through the HTML validator.
 
-The alert on the thankyou page is because I have set the page to automatically re-direct the user back to the homepage after 10 seconds of displaying the page
+The error on the thankyou page is because I have set the page to automatically re-direct the user back to the homepage after 10 seconds of displaying the page
 
 <details>
 <summary>Home Page</summary>
