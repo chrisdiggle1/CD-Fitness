@@ -418,7 +418,7 @@ To clone the repository, please follow thw below steps -
 
 ## Credits
 
-### **code**
+### **Code**
 
 * With this being my 1st project, I took inspiration for the design and layout from the Love Running Walkthrough project on the Code Institute LMS, and some of the code was used and modified to for this project.
 
@@ -426,7 +426,7 @@ To clone the repository, please follow thw below steps -
 
 * [W3Schools](https://www.w3schools.com/), [Stack Overflow](https://stackoverflow.com/), the Slack community and my HTML, CSS and Javascrpit book written by Mike McGrath, were used regularly for any issues I came across with my code.
 
-### **images**
+### **Images**
 
 * All images on the Amenities page were taken from https://www.pexels.com/
 
@@ -438,7 +438,7 @@ To clone the repository, please follow thw below steps -
 
 * The thank-you page image was taken from - https://unsplash.com/s/photos/man-and-women
 
-### **content**
+### **Content**
 
 * The text written in the 'Why Join Us' section was taken from - https://myadvancefitness.com/7-benefits-of-a-gym-membership/
 
