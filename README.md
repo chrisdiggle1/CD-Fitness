@@ -390,8 +390,85 @@ The error on the thankyou page is because I have set the page to automatically r
 
 ## Deployment
 
+The site is deployed using GitHub pages. To do this please follow the below steps - 
+
+1. Login to GitHub.
+2. Select the repository for the site you wish to deploy.
+3. Click on "Settings" on the navigation bar under the repository title.
+4. Click on 'pages' shown on the left side navigation bar.
+5. Under the 'build and deployment' title, and the 'branch' heading, use the drop down and select 'main'.
+6. Select the /root folder to deply from.
+7. Click "Save", then wait for it to be deployed. Please note it can take some time for the page to be fully deployed.
+8. 
+The URL for the deployed site will be shown above 'source'.
+
+To Fork the repository, please follow the below steps - 
+
+1. Login to GitHub.
+2. Select the repository for the project you wish to fork.
+3. Click the fork botton in the top right-hand corner.
+
+To clone the repository, please follow thw below steps - 
+
+1. Login to GitHub.
+2. Select the repository for the project you wish to clone.
+3. Click on the code button and choose whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open a new terminal in the IDE used and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3 then press enter.
 
 ## Credits
+
+### **code**
+
+* With this being my 1st project, I took inspiration for the design and layout from the Love Running Walkthrough project on the Code Institute LMS, and some of the code was used and modified to for this project.
+
+* This README file was made and guided by Kera Cudmores [earth-day-hackathon-2022 README.](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
+
+* [W3Schools](https://www.w3schools.com/), [Stack Overflow](https://stackoverflow.com/), the Slack community and my HTML, CSS and Javascrpit book written by Mike McGrath, were used regularly for any issues I came across with my code.
+
+### **images**
+
+* All images on the Amenities page were taken from https://www.pexels.com/
+
+* The home page image was taken from https://www.pexels.com/search/gym/
+
+* The icons for the gym ethos were taken from font awesome - https://fontawesome.com/
+
+* The sign-up page image was taken from - https://unsplash.com/s/photos/man-and-women
+
+* The thank-you page image was taken from - https://unsplash.com/s/photos/man-and-women
+
+### **content**
+
+* The text written in the 'Why Join Us' section was taken from - https://myadvancefitness.com/7-benefits-of-a-gym-membership/
+
+* The text for the description of the classes was taken from the below - 
+
+   **HIIT** - https://en.wikipedia.org/wiki/High-intensity_interval_training
+
+   **Yoga** - https://www.healthline.com/nutrition/13-benefits-of-yoga
+
+   **Legs, Bums and Tums** - https://www.nuffieldhealth.com/gyms/classes/legs-bums-tums#:~:text=Legs%2C%20bums%20and%20tums%20is%20a%20full%20body,who%20simply%20want%20to%20improve%20their%20fitness%20levels.
+
+   **Spin** - https://biketips.com/spin-class-guide/
+
+### **Acknowledgements**
+
+I would like to thank the below during my time doing this project - 
+
+* My Mentor Greame Taylor for his guidance, tips, support and feedback during this first project.
+
+* My wife Kirsty for her support during this first project, taking the kids out so I can stdy in peace, bringing regular coffee to keep me going and telling me to take a break when I struggled with an issue.
+
+* My kids for wanting to be part of the project and choosing the colours and picking out the images on the site, also for being good as gold and letting me do my studies without much hassle.
+
+* The Slack community for when you need help, a laugh or to help somebody else out. 
+
+
+
+
+
+
 
 
 
