@@ -12,7 +12,53 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
 
 **[Live Website](https://chrisdiggle1.github.io/CD-Fitness/)**
 
+## **Contents**
+
+1. [User Experience (UX)](#User-Experience (UX)) 
+    - [First-Time User](#First-Time-User)
+    - [Returning User](#Returning-User)
+    - [Site Owner](#Site-Owner)
+    
+2. [Target Audience](#Target-Audience)
+
+3. [Design](#Design)
+    - [Website Structure](#Website-Structure)
+    - [Colour Scheme](#Colour-Scheme)
+    - [Typography](#Typography)
+
+4. [Page Features](#Page-Features)
+    - [Header](#Header)
+    - [Footer](#Footer)
+    - [Home Page](#Home-Page)
+    - [Amenities Page](#Amenities-Page)
+    - [Classes Page](#Classes-Page)
+    - [Join Us Page](#Join-Us-Page)
+    - [Thank You Page](#Thank-You-Page)
+    - [404 Page](#404-Page)
+    - [Favicon](#Favicon)
+
+5. [Accessibility](#Accessibility)
+
+6. [Technologies Used](#Technologies-Used)
+    - [Languages](#Languages)
+    - [Frameworks and tools](#Frameworks-and-tools)
+
+7. [Testing and Validation](#Testing-and-Validation)
+    - [W3C Markup Validation](#W3C-Markup-Validation)
+    - [W3C Jigsaw CSS Validation](#W3C-Jigsaw-CSS-Validation)
+    - [Lighthouse Tests](#Lighthouse-Tests)
+    - [WAVE](#WAVE)
+
+8. [Deployment](#Deployment)
+
+9. [Credits](#Credits)
+    - [Code](#Code)
+    - [Images](#Images)
+    - [Content](#Content)
+    - [Acknowledgements](#Acknowledgements)
+
 ## **User Experience (UX)**
+
 
 ### **First-time User**
 
@@ -189,7 +235,7 @@ I used google fonts to import the fonts for this project.
 
 * All pages on the site have a Favicon. The Favicon contains the letters CDF and uses the colour theme from the main site, with a Sky Blue background and the letters in Bistre.
 
-### **Accessibility**
+## **Accessibility**
 
 I have tried to ensure the website is accessible friendly as possible. I have tried to achive this by:
 
@@ -420,9 +466,9 @@ To clone the repository, please follow thw below steps -
 
 ### **Code**
 
-* With this being my 1st project, I took inspiration for the design and layout from the Love Running Walkthrough project on the Code Institute LMS, and some of the code was used and modified to for this project.
+* With this being my 1st project, I took inspiration for the design and layout from the Love Running Walkthrough project on the Code Institute LMS, and some of the code was used and modified for this project.
 
-* This README file was made and guided by Kera Cudmores [earth-day-hackathon-2022 README.](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design)
+* This README file was created using Kera Cudmores [earth-day-hackathon-2022 README](https://github.com/kera-cudmore/earth-day-hackathon-2022#Design) as a guide.
 
 * [W3Schools](https://www.w3schools.com/), [Stack Overflow](https://stackoverflow.com/), the Slack community and my HTML, CSS and Javascrpit book written by Mike McGrath, were used regularly for any issues I came across with my code.
 
