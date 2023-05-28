@@ -460,6 +460,32 @@ The error on the thankyou page is because I have set the page to automatically r
 <img src="documentation/wave-error.png">
 </details>
 
+<br>
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+| ---| ---| ---| ---| ---|
+| Header/Navbar
+| Site Logo | When clicked the user will be directed to the homepage. | Clicked the logo. | Re-directed to the homepage. | Pass |
+| Home Link | When clicked the user will be directed to the homepage. | Clicked the home link. | Re-directed to the homepage. | Pass |
+| Amenities Link | When clicked, the user will be directed to the amenities. page | Clicked the amenities link. | Re-directed to the amenities page. | Pass |
+| Classes Link | When clicked, the user will be directed to the classes page. | Clicked the classes link. | Re-irected to the classes page. | Pass |
+| Join Us Link | when clicked, the user will be directed to the join us page. | Clicked the join us link. | Re-directed to the join us page. | Pass |
+| Footer
+| Facebook Icon | When clicked, the user will be taken to the Facebook homepage. | Clicked the Facebook icon. | Directed to Facebook homepage. | Pass |
+| Instagram Icon | When clicked, the user will be taken to the Instagram homepage. | Clicked the Instagram icon. | Directed to Instagram homepage. | Pass |
+| Twitter Icon | When clicked, the user will be taken to the Twitter homepage. | Clicked the Twitter icon. | Directed to Twitter homepage. | Pass |
+| YouTube Icon | When clicked, the user will be taken to the YouTube homepage. | Clicked the YouTube icon. | Directed to YouTube homepage. | Pass|
+| Join Us Page
+| Firstname Input Field Empty | This is a required field so should not allow the user to submit with no value entered. | Attempted to submit the form with no value entered. | Prompt appears telling the user to fill in the field. | Pass |
+| Lastname Input Field Empty | This is a required field so should not allow the user to submit with no value entered. | Attempted to submit the form with no value entered. | Prompt appears telling the user to fill in the field. | Pass |
+| Email Address Input Field Empty | This is a required field so should not allow the user to submit with no value entered. | Attempted to submit the form with no value entered. | Prompt appears telling the user to fill in the field. | Pass |
+| Lets Go Button | When all input fields have been completed, the user clicks the button and is directed to the thank you page. | Filled in all fields and clicked Lets Go!. | Re-directed to thank you page | Pass |
+| Thank you page
+| Thank you page | The user will arrive on this page after filling in the join up form, the page will display for 10 seconds then the user will be re-directed back to the homepage. | filled out join us form and submitted. | Directed to thank you page for 10 seconds then automatically re-directed back to home page. | Pass |
+| 404 Error Page
+| 404 Error Page | The User will be directed to the 404 error page if the URL is incorrectly input. | added a 1 to index.html part of the URL - https://chrisdiggle1.github.io/CD-Fitness/in1dex.html and pressed enter. | Re-directed to the 404 error page. | Pass |
+
+
 ## Deployment
 
 The site is deployed using GitHub pages. To do this please follow the below steps - 
