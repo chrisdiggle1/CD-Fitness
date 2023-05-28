@@ -8,7 +8,7 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
 
 ## **Live Site**
 
-![alt view of site displayed on different screen sizes](/documentation/responsive.PNG)
+![alt view of site displayed on different screen sizes](/documentation/responsive.png)
 
 **[Live Website](https://chrisdiggle1.github.io/CD-Fitness/)**
 
@@ -110,35 +110,35 @@ and there is also a thank you page you are dirceted to when you fill in the sign
 
 <details>
 <summary>Homepage Wireframe</summary>
-<img src="documentation/homepage.PNG">
+<img src="documentation/homepage.png">
 </details>
 
 <br>
 
 <details>
 <summary>Amenities Page Wireframe</summary>
-<img src="documentation/amenities.PNG">
+<img src="documentation/amenities.png">
 </details>
 
 <br>
 
 <details>
 <summary>Classes Page Wireframe</summary>
-<img src="documentation/classes.PNG">
+<img src="documentation/classes.png">
 </details>
 
 <br>
 
 <details>
 <summary>Join Us Page Wireframe</summary>
-<img src="documentation/join.PNG">
+<img src="documentation/join.png">
 </details>
 
 ### **Colour Scheme**
 
 The colour scheme of the website was decided by asking my children to pick a colour for my background. They both decided they wanted Sky Blue, so from that I picked Bistre for the headings to stand out against the blue background. Light Coral has been used with an opaque effect on the home page, join us and thank you pages.
 
-![alt palette of the colours used in the site](documentation/color-scheme.PNG)
+![alt palette of the colours used in the site](documentation/color-scheme.png)
 
 ### **Typography**
 
@@ -147,7 +147,7 @@ The Play font is a sans serif font which is great for accessibility and dyslexic
 
 I used google fonts to import the fonts for this project.
 
-![alt image of the font selected in google fonts](documentation/play-font.PNG)
+![alt image of the font selected in google fonts](documentation/play-font.png)
 
 ## **Page Features**
 
@@ -155,7 +155,7 @@ I used google fonts to import the fonts for this project.
 
 <details>
 <summary>View the header</summary>
-<img src="documentation/header.PNG">
+<img src="documentation/header.png">
 </details>
 
 * The header is featured on all pages on the webiste.
@@ -168,7 +168,7 @@ I used google fonts to import the fonts for this project.
 
 <details>
 <summary>View the footer</summary>
-<img src="documentation/footer.PNG">
+<img src="documentation/footer.png">
 </details>
 
 * The footer is featured on all pages on the website with the exception of the 404 page.
@@ -219,7 +219,7 @@ I used google fonts to import the fonts for this project.
 
 <details>
 <summary>View of the 404 error</summary>
-<img src="documentation/error.PNG">
+<img src="documentation/error.png">
 </details>
 
 * The site has a basic 404 error page which the user is directed to if the URL is input incorrectly.
@@ -230,7 +230,7 @@ I used google fonts to import the fonts for this project.
 
 <details>
 <summary>Favicon</summary>
-<img src="documentation/favicon.PNG">
+<img src="documentation/favicon.png">
 </details>
 
 * All pages on the site have a Favicon. The Favicon contains the letters CDF and uses the colour theme from the main site, with a Sky Blue background and the letters in Bistre.
@@ -273,42 +273,42 @@ The [W3C](https://validator.w3.org/) Markup Validation Service was used to valid
 
 <details>
 <summary>Home Page</summary>
-<img src="documentation/w3index.PNG">
+<img src="documentation/w3index.png">
 </details>
 
 <br>
 
 <details>
 <summary>Amenities Page</summary>
-<img src="documentation/w3amenities.PNG">
+<img src="documentation/w3amenities.png">
 </details>
 
 <br>
 
 <details>
 <summary>Classes Page</summary>
-<img src="documentation/w3classes.PNG">
+<img src="documentation/w3classes.png">
 </details>
 
 <br>
 
 <details>
 <summary>Signup Page</summary>
-<img src="documentation/w3signup.PNG">
+<img src="documentation/w3signup.png">
 </details>
 
 <br>
 
 <details>
 <summary>Thank You Page</summary>
-<img src="documentation/w3thankyou.PNG">
+<img src="documentation/w3thankyou.png">
 </details>
 
 <br>
 
 <details>
 <summary>404 Error Page</summary>
-<img src="documentation/w3404.PNG">
+<img src="documentation/w3404.png">
 </details>
 
 <br>
@@ -317,7 +317,7 @@ The [W3C Jigsaw](https://jigsaw.w3.org/css-validator/) CSS Validation Service wa
 
 <details>
 <summary>CSS Validation</summary>
-<img src="documentation/css-validation.PNG">
+<img src="documentation/css-validation.png">
 </details>
 
 <br>
@@ -330,28 +330,28 @@ The Lighthouse tool on Google DevTools was used to test the accessibility and pe
 
 <details>
 <summary>Home Page</summary>
-<img src="documentation/desktop-home.PNG">
+<img src="documentation/desktop-home.png">
 </details>
 
 <br>
 
 <details>
 <summary>Amenities Page</summary>
-<img src="documentation/desktop-amenities.PNG">
+<img src="documentation/desktop-amenities.png">
 </details>
 
 <br>
 
 <details>
 <summary>Classes Page</summary>
-<img src="documentation/desktop-classes.PNG">
+<img src="documentation/desktop-classes.png">
 </details>
 
 <br>
 
 <details>
 <summary>Signup Page</summary>
-<img src="documentation/desktop-signup.PNG">
+<img src="documentation/desktop-signup.png">
 </details>
 
 <br>
@@ -360,28 +360,28 @@ The Lighthouse tool on Google DevTools was used to test the accessibility and pe
 
 <details>
 <summary>Home Page</summary>
-<img src="documentation/mobile-home.PNG">
+<img src="documentation/mobile-home.png">
 </details>
 
 <br>
 
 <details>
 <summary>Amenities Page</summary>
-<img src="documentation/mobile-amenities.PNG">
+<img src="documentation/mobile-amenities.png">
 </details>
 
 <br>
 
 <details>
 <summary>Classes Page</summary>
-<img src="documentation/mobile-classes.PNG">
+<img src="documentation/mobile-classes.png">
 </details>
 
 <br>
 
 <details>
 <summary>Signup Page</summary>
-<img src="documentation/mobile-signup.PNG">
+<img src="documentation/mobile-signup.png">
 </details>
 
 <br>
@@ -396,42 +396,42 @@ The error on the thankyou page is because I have set the page to automatically r
 
 <details>
 <summary>Home Page</summary>
-<img src="documentation/wave-home.PNG">
+<img src="documentation/wave-home.png">
 </details>
 
 <br>
 
 <details>
 <summary>Amenities Page</summary>
-<img src="documentation/wave-amenities.PNG">
+<img src="documentation/wave-amenities.png">
 </details>
 
 <br>
 
 <details>
 <summary>Classes Page</summary>
-<img src="documentation/wave-classes.PNG">
+<img src="documentation/wave-classes.png">
 </details>
 
 <br>
 
 <details>
 <summary>Signup Page</summary>
-<img src="documentation/wave-signup.PNG">
+<img src="documentation/wave-signup.png">
 </details>
 
 <br>
 
 <details>
 <summary>Thank You Page</summary>
-<img src="documentation/wave-thankyou.PNG">
+<img src="documentation/wave-thankyou.png">
 </details>
 
 <br>
 
 <details>
 <summary>404 Error Page</summary>
-<img src="documentation/wave-error.PNG">
+<img src="documentation/wave-error.png">
 </details>
 
 ## Deployment
