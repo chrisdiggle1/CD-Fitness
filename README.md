@@ -445,14 +445,17 @@ The site is deployed using GitHub pages. To do this please follow the below step
 5. Under the 'build and deployment' title, and the 'branch' heading, use the drop down and select 'main'.
 6. Select the /root folder to deply from.
 7. Click "Save", then wait for it to be deployed. Please note it can take some time for the page to be fully deployed.
-8. 
-The URL for the deployed site will be shown above 'source'.
+8. The URL for the deployed site will be shown above 'source'.
+
+### **Fork**
 
 To Fork the repository, please follow the below steps - 
 
 1. Login to GitHub.
 2. Select the repository for the project you wish to fork.
 3. Click the fork botton in the top right-hand corner.
+
+### **Clone**
 
 To clone the repository, please follow thw below steps - 
 
@@ -504,7 +507,7 @@ I would like to thank the below during my time doing this project -
 
 * My Mentor Greame Taylor for his guidance, tips, support and feedback during this first project.
 
-* My wife Kirsty for her support during this first project, taking the kids out so I can stdy in peace, bringing regular coffee to keep me going and telling me to take a break when I struggled with an issue.
+* My wife Kirsty for her support during this first project, taking the kids out so I can study in peace, bringing regular coffee to keep me going and telling me to take a break when I struggled with an issue.
 
 * My kids for wanting to be part of the project and choosing the colours and picking out the images on the site, also for being good as gold and letting me do my studies without much hassle.
 
