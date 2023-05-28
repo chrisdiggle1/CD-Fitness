@@ -527,6 +527,20 @@ footer > p {
         display: inline-block
     }
 
+    #amenities-list > ul {
+        list-style-position: inside;
+        text-align: center;
+        color: #342017;
+        border: 5px solid;
+        border-radius: 25px;
+        line-height: 30px;
+        margin-left: 13%;
+        margin-right: 30%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        width: 275px;
+    }
+
 }
 
 /* Responsiveness for smaller screen sizes from 380px wide and down */
@@ -559,4 +573,17 @@ footer > p {
             margin-left: 10px;
     }
 
+    #amenities-list > ul {
+        list-style-position: inside;
+        text-align: center;
+        color: #342017;
+        border: 5px solid;
+        border-radius: 25px;
+        line-height: 30px;
+        margin-left: 12%;
+        margin-right: 30%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        width: 275px;
+    }
 }
