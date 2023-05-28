@@ -224,7 +224,7 @@ I used google fonts to import the fonts for this project.
 ### **Join Us Page**
 
 <details>
-<summary></summary>
+<summary>View the join us page</summary>
 <img src="documentation/signup1.png">
 <img src="documentation/signup2.png">
 </details>
@@ -236,6 +236,11 @@ I used google fonts to import the fonts for this project.
 * Once the user has filled in their details and chose the membership they would like, they press the 'Lets Go!' button, this directs the user to a thank you page confirming the sign up.
 
 ### **Thank You Page**
+
+<details>
+<summary>View the thank you page</summary>
+<img src="documentation/thankyou1.png">
+</details>
 
 * The user is directed to this page once they have singned up and submitted their form.
 
@@ -462,6 +467,8 @@ The error on the thankyou page is because I have set the page to automatically r
 
 <br>
 
+## **Feature Testing**
+
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | ---| ---| ---| ---| ---|
 | Header/Navbar
@@ -485,6 +492,15 @@ The error on the thankyou page is because I have set the page to automatically r
 | 404 Error Page
 | 404 Error Page | The User will be directed to the 404 error page if the URL is incorrectly input. | added a 1 to index.html part of the URL - https://chrisdiggle1.github.io/CD-Fitness/in1dex.html and pressed enter. | Re-directed to the 404 error page. | Pass |
 
+<br>
+
+## **Bugs**
+
+### **Resolved Bugs**
+
+| Number | Bug | How the bug was resolved |
+| ---| ---| ---|
+| 1 | Originally I had the radio buttons on the signup page set to display horizontally, however When displaying the signup page on smaller devices, the radio buttons wouldnt stay next to corresponding the text and would be display on a seperate line. ![alt display of bug on signup page on smaller device](/documentation/signup-bug.png) | I decided to arrange the buttons to they aligned vertically, I did this by adding a line break in between each option and adding a new media query for smaller devices. ![alt display of new layout of radio button on signup page](/documentation/bug-resolve.png) |
 
 ## Deployment
 
