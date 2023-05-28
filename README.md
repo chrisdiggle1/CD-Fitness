@@ -179,6 +179,13 @@ I used google fonts to import the fonts for this project.
 
 ### **Home Page**
 
+<details>
+<summary>View the homepage</summary>
+<img src="documentation/home1.png">
+<img src="documentation/home2.png">
+<img src="documentation/home3.png">
+</details>
+
 * Contains an image of a male and female working out in the gym. this is to grab the users attention when the page first laods.
 
 * The image also has some text overlay with an opaque background to stand out on the page.
@@ -189,11 +196,24 @@ I used google fonts to import the fonts for this project.
 
 ### **Amenities Page**
 
+<details>
+<summary>View the amenities page</summary>
+<img src="documentation/amenities1.png">
+<img src="documentation/amenities2.png">
+</details>
+
 * Displays 15 images of the amenities the gym has to offer customers. this is  to provide a pleasant visual to users looking at joining the gym.
 
 * Displays a list with bullet points of the amenities on offer at the gym under the images, this is to state exactly what we have inside.
 
 ### **Classes Page**
+
+<details>
+<summary>View the classes page</summary>
+<img src="documentation/classes1.png">
+<img src="documentation/classes2.png">
+<img src="documentation/classes3.png">
+</details>
 
 * Displays a description stating that the gym has group classes on offer and to to join like minded people having fun whilst getting fit.
 
@@ -202,6 +222,12 @@ I used google fonts to import the fonts for this project.
 * the page has a large image of a group class underneath the description of the classes.
 
 ### **Join Us Page**
+
+<details>
+<summary></summary>
+<img src="documentation/signup1.png">
+<img src="documentation/signup2.png">
+</details>
 
 * Contains a large image of a male workign out using battle ropes.
 
