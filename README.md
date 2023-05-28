@@ -48,10 +48,14 @@ The site is aimed to attract customers, with a nice easy to read layout, complim
     - [W3C Jigsaw CSS Validation](#W3C-Jigsaw-CSS-Validation)
     - [Lighthouse Tests](#Lighthouse-Tests)
     - [WAVE](#WAVE)
+    - [Feature Testing](#Feature-Testing)
 
-8. [Deployment](#Deployment)
+8.  [Bugs](#Bugs)
+    - [Resolved Bugs](#Resolved-Bugs)
 
-9. [Credits](#Credits)
+9. [Deployment](#Deployment)
+
+10. [Credits](#Credits)
     - [Code](#Code)
     - [Images](#Images)
     - [Content](#Content)
@@ -467,7 +471,7 @@ The error on the thankyou page is because I have set the page to automatically r
 
 <br>
 
-## **Feature Testing**
+### **Feature Testing**
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 | ---| ---| ---| ---| ---|
